@@ -1,0 +1,11 @@
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\bin\Debug\JRPC Discord Rich Presence.exe.config
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\bin\Debug\JRPC Discord Rich Presence.exe
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\bin\Debug\JRPC Discord Rich Presence.pdb
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\bin\Debug\JRPC.dll
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\bin\Debug\xdrpc.dll
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC Discord Rich Presence.csprojResolveAssemblyReference.cache
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC_Discord_Rich_Presence.Form1.resources
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC_Discord_Rich_Presence.Properties.Resources.resources
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC Discord Rich Presence.csproj.GenerateResource.Cache
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC Discord Rich Presence.exe
+c:\users\phuce\desktop\Projects\JRPC Discord Rich Presence\JRPC Discord Rich Presence\obj\Debug\JRPC Discord Rich Presence.pdb
